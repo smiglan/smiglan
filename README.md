@@ -23,8 +23,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiglan&layout=compact&hide=html" alt="PM" /></p>
 
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyabrata017&show_icons=true" alt="PM" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smiglan&show_icons=true" alt="PM" /></p>-->
 
 <br><p align="left">  
 <a href="https://www.linkedin.com/in/shubham-miglani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shubham Miglani" height="30" width="30" /></a>
