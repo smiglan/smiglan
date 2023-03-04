@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there 👋, I'm Shubham Miglani</h1>
 
-- 🔭 I’m currently working on **Data science, Machine Learning, Deep Learning and NLP**
+- 🔭 I’m currently working on **NLP**
 - 🌱 I’m currently learning **SQL & MLOps**
 - 👯 I’m looking to collaborate on **Machine Learning** related projects and competitions
 - 💬 Ask me about **Python,Machine learning, Deep Learning, Statistics, Matlab**
