@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Shubham Miglani</h1>
 
 - 🔭 I’m currently working on **NLP** and like to create interesting applications
-- 👯 I’m looking to collaborate on **Machine Learning** related projects and competitions
+- 👯 I’m looking to collaborate on NLP related projects and competitions
 - 💬 Ask me about **Python,Machine learning, Deep Learning, Statistics, Matlab**
 - 📫 How to reach me: **miglanishubham25@gmail.com**
 
