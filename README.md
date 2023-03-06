@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi there 👋, I'm Shubham Miglani</h1>
 
-- 🔭 I’m currently working on **NLP**
-- 🌱 I’m currently learning **SQL & MLOps**
+- 🔭 I’m currently working on **NLP** and like to create interesting applications
 - 👯 I’m looking to collaborate on **Machine Learning** related projects and competitions
 - 💬 Ask me about **Python,Machine learning, Deep Learning, Statistics, Matlab**
 - 📫 How to reach me: **miglanishubham25@gmail.com**
@@ -22,9 +21,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiglan&layout=compact&hide=html" alt="PM" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smiglan&show_icons=true" alt="PM" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smiglan&show_icons=true" alt="PM" /></p>
 
-<br><p align="center">  
+<br><p align="center">
 <a href="https://www.linkedin.com/in/shubham-miglani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shubham Miglani" height="30" width="30" /></a>
 
-</p>
+</p> -->
